@@ -99,4 +99,14 @@ main{
 }
 .about-inf{
     text-align: center;
+    color: #757575;
+   
+}
+.ainfo-desciption{
+   font-weight: 700;
+   
+}
+
+.section-lorem{
+    padding: 30px 150px;
 }
