@@ -28,6 +28,7 @@ nav{
 }
 nav > ul{
     display: flex;
+    align-items: center;
 }
 nav li{
     list-style: none;
@@ -36,4 +37,8 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747; ;
+}
+/* header related styles */
+.header{
+    background-color: #FFF8F3;
 }
