@@ -71,7 +71,10 @@ nav a{
     margin-bottom: 30px;
 }
 /* min section style */
-
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
 /* abutt section style */
 .about{
     padding: 130px;
@@ -88,5 +91,12 @@ nav a{
 .section-title{
     color: #757575;
     font-size: 18px;
+    text-align: center;
+}
+.about-info-contenar{
+    display: flex;
+    justify-content: space-around;
+}
+.about-inf{
     text-align: center;
 }
