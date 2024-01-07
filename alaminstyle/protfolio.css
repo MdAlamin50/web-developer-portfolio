@@ -75,6 +75,9 @@ main{
     max-width: 1140px;
     margin: 0px auto;
 }
+    main section{
+        margin-top: 130px;
+    }
 /* abutt section style */
 .about{
     padding: 130px;
@@ -109,4 +112,25 @@ main{
 
 .section-lorem{
     padding: 30px 150px;
+}
+/* skill relatd style */
+.skill-contenar{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #FFF;
+    box-shadow: 0px 0px 50px 0px rgb(0, 0, 0, 0.6);
+  
+}
+.skill-disctioption{
+    color: #757575;
+}
+/* resume section style */
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
