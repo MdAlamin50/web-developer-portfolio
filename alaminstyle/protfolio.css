@@ -20,6 +20,7 @@ nav{
     display: flex;
     justify-content:space-between ;
     align-items: center;
+    margin: 0 200px;
 }
 .nav-style{
     color: #181818;
@@ -41,4 +42,12 @@ nav a{
 /* header related styles */
 .header{
     background-color: #FFF8F3;
+}
+.benar-style{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.benar-style .picher{
+    width: 500px;
 }
